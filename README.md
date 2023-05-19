@@ -1,4 +1,4 @@
-## Currency converter
+## Currency Converter
 
 This is a currency converter website that provides a platform for converting currency in required form. 
 
