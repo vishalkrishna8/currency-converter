@@ -1,5 +1,6 @@
 ## Currency converter
 
+
 This is a currency converter website that provides a platform for converting currency in required form. 
 
 
@@ -35,5 +36,4 @@ Contributions to the website are welcome. To contribute, follow these steps:
 
 3. Push to the branch: git push origin new-feature
 
-4. Create a pull request
-
+4. Create a pull request. 
