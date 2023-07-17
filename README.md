@@ -4,7 +4,7 @@
 This is a currency converter website that provides a platform for converting currency in required form. 
 
 
-## Technologies used
+#### Technologies used
 
 
 This website was built using the following technologies:
